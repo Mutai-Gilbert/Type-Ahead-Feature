@@ -1,0 +1,1 @@
+#This projects involves A list of states feature, where every time you type a key word you get suggestions. This code was from Wes bos with some adjustments.
